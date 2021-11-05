@@ -10,3 +10,6 @@ MyFirst Git Project. Thanks Ma'am for This Opportunity.
 * Compare the temporary number with reversed number
 * If both numbers are same, print "palindrome number"
 * Else print "not palindrome number"
+
+#Added Subtraction Program in JAVA
+The code subtracts 50 from 100 and prints the difference.
