@@ -13,3 +13,8 @@ MyFirst Git Project. Thanks Ma'am for This Opportunity.
 
 #Added Subtract Program in JAVA
 It tells the difference when 50 is removed from 100
+
+# Reverse a string using recursion
+## Recursive Approach
+* We will remove first character from the input string and append it at the end.
+* Repeat it till all the characters are removed and input becomes empty.
